@@ -37,9 +37,7 @@ Spotify_Data_Analysis/
 ├── data/                    # Raw and cleaned Spotify datasets
 ├── notebooks/               # Jupyter notebooks for EDA and visualization
 ├── scripts/                 # Python scripts for preprocessing and analysis
-├── outputs/                 # Charts, graphs, and summary reports
 ├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
 ```
 
 ---
